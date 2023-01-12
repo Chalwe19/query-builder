@@ -1,0 +1,1 @@
+Simple package to perform raw MySql queries 
